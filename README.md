@@ -1,1 +1,1 @@
-# Technical-and-Basic-Analysis
+# Technical-and-Basic-Analysis-of-Stock
